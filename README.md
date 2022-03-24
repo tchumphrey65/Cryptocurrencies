@@ -4,7 +4,7 @@
 
 Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers.  The cryptocurrency market is dynamic and complicated creating some challenge for Accountability Accounting.  We have been hired to create an analysis to aid them in their entry into the cryptocurrency market.
 
-We have been requested to create a report that includes what cryptocurrencies are trading on the  market and how to group them to create a classification system for this new investment.  We are also being asked to create visualizations of the crptocurrency data to aid in presenting this information to clients of Accountability Accounting.
+We have been requested to create a report that includes what cryptocurrencies are trading on the  market and how to group them to create a classification system for this new investment.  We are also being asked to create visualizations of the cryptocurrency data to aid in presenting this information to clients of Accountability Accounting.
 
 ## Analysis 
 
